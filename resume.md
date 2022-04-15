@@ -1,1 +1,1 @@
-<img src="resume.pdf">
+<embed src="resume.pdf" type="application/pdf">
