@@ -10,5 +10,8 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 ---
 ### 🛠️ Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<!--   python -->
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg?sanitize=true" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<!--   numpy -->
+  
 </div>
