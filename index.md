@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+<!-- title: "" -->
 ---
 
 I am a senior student majoring in statistics at Sun Yat-sen University. I am skilled in Python, R and MATLAB. I expect to start a new journey at National University of Singapore as a master student in statistics. 
