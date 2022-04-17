@@ -10,8 +10,9 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 
 ### Education
 
-- Master of Science in Statistics, Department of Statistics and Data Science, Faculty of Science, National University of Singapore 🇸🇬 `Aug.2022 -- `
-  Incoming M.Sc candidate
-- Bachelor of Science in Statistics, Department of Statistics, School of Mathematics, Sun Yat-sen University 🇨🇳 `Sep.2018 -- Jun.2022`
+- National University of Singapore 🇸🇬 
+  - Incoming Stat M.Sc candidate from Aug 2022
+- Sun Yat-sen University 🇨🇳
+  - B.Sc in Stat, Sep 2018 -- Jun 2022
   - GPA: 3.902/5 (Major GPA: 4.025/5)
   - Honours: School Scholarship (2019, 2020, 2021), Second Prize of National College Mathematics Competition (2020)
