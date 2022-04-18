@@ -27,8 +27,8 @@ external:                  # shows a footer with social links - for available ic
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+ disqus_shortname: "ds"    # see https://disqus.com/
+ isso_domain: "id"         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
