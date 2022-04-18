@@ -2,6 +2,8 @@
 title: "22 Fall Application Record"
 layout: post
 ---
+This is a post to record the history of my 22 fall application.
+
 | University | Program  | Timeline                                                             |
 | ---------- | -------- | -------------------------------------------------------------------- |
 | NUS        | DSML     | Jul 30, 21 ➡️ Apr 3, 22 (rej)                                      |
