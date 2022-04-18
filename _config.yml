@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home"}
   - {file: "blog.html", title: "Blog"}
-  - {file: "cv.html", title: "CV"}
+  - {file: "/cv/cv.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:heziyang2000@gmail.com"}
@@ -27,8 +27,8 @@ external:                  # shows a footer with social links - for available ic
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
- disqus_shortname: "ds"    # see https://disqus.com/
- isso_domain: "id"         # see https://posativ.org/isso/
+#  disqus_shortname: "ds"    # see https://disqus.com/
+#  isso_domain: "id"         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
