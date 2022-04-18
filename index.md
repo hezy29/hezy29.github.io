@@ -25,3 +25,5 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
   - Data analyst intern from Mar 2022 to present
 - China Merchants Bank, IT Department
   - Data science intern from Jul 2021 to Aug 2021
+
+<embed src="https://hezy29.github.io/cv.pdf" width="100%" height="850px"/>
