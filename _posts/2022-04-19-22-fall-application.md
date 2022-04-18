@@ -1,7 +1,6 @@
 ---
 title: "22 Fall Application Record"
 layout: post
-categories: application
 ---
 | University | Program  | Timeline                                                             |
 | ---------- | -------- | -------------------------------------------------------------------- |
