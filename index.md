@@ -11,7 +11,7 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 ### 🏫 Education 
 
 - <img src="./images/logo/NUS logo.png" align="middle" width="40"> National University of Singapore 🇸🇬
-  - Master in Computing, Aug 2022 -- Jan 2024(Expected)
+  - Master in Computing, Aug 2022 -- Jan 2024 (Expected)
   <!-- - Incoming MComp candidate from Aug 2022 -->
 - <img src="./images/logo/Sun_Yat-sen_University_Logo.png" align="middle" width="40"> Sun Yat-sen University 🇨🇳
   - B.Sc in Stat, Sep 2018 -- Jun 2022
@@ -23,7 +23,7 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 ### 🧑‍💻 Internship Experience
 
 - Mars Wrigley, China Digital Team
-  - Data analyst intern from Mar 2022 to present
+  - Data analyst intern from Mar 2022 to Jun 2022 (Expected)
 - China Merchants Bank, IT Department
   - Data science intern from Jul 2021 to Aug 2021
 
