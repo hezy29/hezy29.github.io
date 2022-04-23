@@ -2,27 +2,34 @@
 layout: page
 title:
 ---
-I am a senior student majoring in statistics at Sun Yat-sen University. I am skilled in Python, R and MATLAB. I expect to start a new journey at National University of Singapore as a MComp(master of computing) candidate
+I am a senior student majoring in statistics at Sun Yat-sen University. I am skilled in Python, R and MATLAB. I expect to start a new journey at National University of Singapore as a MComp(master of computing) candidate. 
 
 I am currently working as a data analyst intern at China Digital Team, Mars Wrigley in Guangzhou. The main project I work on is building time series models, such as LSTM, ARIMA, to predict Mars Wrigley sales for chocolate, gum, mint, etc. Besides, I devote to connecting Postgresql database and cloud drive to implement database review.
 
 ---
 
-### Education
+### 🏫 Education 
 
-- <img src="/images/NUS logo.png" align="middle" width="40"> National University of Singapore 🇸🇬
+- <img src="./images/logo/NUS logo.png" align="middle" width="40"> National University of Singapore 🇸🇬
   - Master in Computing, Aug 2022 -- Jan 2024(Expected)
   <!-- - Incoming MComp candidate from Aug 2022 -->
-- <img src="/images/Sun_Yat-sen_University_Logo.png" align="middle" width="40"> Sun Yat-sen University 🇨🇳
+- <img src="./images/logo/Sun_Yat-sen_University_Logo.png" align="middle" width="40"> Sun Yat-sen University 🇨🇳
   - B.Sc in Stat, Sep 2018 -- Jun 2022
   - GPA: 3.902/5 (Major GPA: 4.025/5)
   - Honours: School Scholarship (2019, 2020, 2021), Second Prize of National College Mathematics Competition (2020)
 
 ---
 
-### Internship Experience
+### 🧑‍💻 Internship Experience
 
 - Mars Wrigley, China Digital Team
   - Data analyst intern from Mar 2022 to present
 - China Merchants Bank, IT Department
   - Data science intern from Jul 2021 to Aug 2021
+
+---
+### 🛠 Languages and Tools:
+<div>
+<!--   python -->
+  <img src="./image/icon/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
