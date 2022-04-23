@@ -11,7 +11,8 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 ### Education
 
 - <img src="/images/NUS logo.png" align="middle" width="40"> National University of Singapore 🇸🇬
-  - Incoming MComp candidate from Aug 2022
+  - Master in Computing, Aug 2022 -- Jan 2024(Expected)
+  <!-- - Incoming MComp candidate from Aug 2022 -->
 - <img src="/images/Sun_Yat-sen_University_Logo.png" align="middle" width="40"> Sun Yat-sen University 🇨🇳
   - B.Sc in Stat, Sep 2018 -- Jun 2022
   - GPA: 3.902/5 (Major GPA: 4.025/5)
