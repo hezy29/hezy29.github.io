@@ -10,7 +10,7 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 
 ### Education
 
-- National University of Singapore 🇸🇬 
+- `<img src="images/NUS School.jpg width="40">`National University of Singapore 🇸🇬
   - Incoming MComp candidate from Aug 2022
 - Sun Yat-sen University 🇨🇳
   - B.Sc in Stat, Sep 2018 -- Jun 2022
