@@ -13,10 +13,15 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 - <img src="./images/logo/NUS logo.png" align="middle" width="40"> National University of Singapore 🇸🇬
   - Master in Computing, Aug 2022 -- Jan 2024 (Expected)
   <!-- - Incoming MComp candidate from Aug 2022 -->
+
 - <img src="./images/logo/Sun_Yat-sen_University_Logo.png" align="middle" width="40"> Sun Yat-sen University 🇨🇳
   - B.Sc in Stat, Sep 2018 -- Jun 2022
   - GPA: 3.902/5 (Major GPA: 4.025/5)
   - Honours: School Scholarship (2019, 2020, 2021), Second Prize of National College Mathematics Competition (2020)
+
+- <img src="https://upload.wikimedia.org/wikipedia/zh/1/11/Shenzhen_Foreign_Languages_School.jpg" align="middle" width="40"> Shenzhen Foreign Languages School 🇨🇳
+  - Science student, Sep 2015 -- Jun 2018
+  - Honours: Dean's list (Honorary Graduate)
 
 ---
 
