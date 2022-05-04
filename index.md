@@ -10,7 +10,7 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 
 ### 🏫 Education 
 
-- <img src="./images/logo/NUS logo.png" align="middle" width="40"> National University of Singapore 🇸🇬
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/NUS_coat_of_arms.svg/334px-NUS_coat_of_arms.svg.png?20190120193317" align="middle" height="40"> National University of Singapore 🇸🇬
   - Master in Computing, Aug 2022 -- Jan 2024 (Expected)
   <!-- - Incoming MComp candidate from Aug 2022 -->
 
