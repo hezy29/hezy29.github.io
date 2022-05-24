@@ -16,7 +16,7 @@ I am currently working as a data analyst intern at China Digital Team, Mars Wrig
 
 - <img src="./images/logo/Sun_Yat-sen_University_Logo.png" align="middle" width="40"> Sun Yat-sen University 🇨🇳
   - B.Sc in Stat, Sep 2018 -- Jun 2022
-  - GPA: 3.902/5 (Major GPA: 4.025/5)
+  - GPA: 3.925/5 (Major GPA: 4.033/5)
   - Honours: School Scholarship (2019, 2020, 2021), Second Prize of National College Mathematics Competition (2020)
 
 - <img src="https://upload.wikimedia.org/wikipedia/zh/1/11/Shenzhen_Foreign_Languages_School.jpg" align="middle" width="40"> Shenzhen Foreign Languages School 🇨🇳
