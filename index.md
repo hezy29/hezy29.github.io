@@ -2,9 +2,9 @@
 layout: page
 title:
 ---
-I am a senior student majoring in statistics at Sun Yat-sen University. I am skilled in Python, R and MATLAB. I expect to start a new journey at National University of Singapore as a MComp(master of computing) candidate. 
+I am an incoming MComp candidate at National University of Singapore. I obtain my bachelor degree of science in statistics at Sun Yat-sen University in Jun, 2022. I am skilled in Python, R and MATLAB. 
 
-I am currently working as a data analyst intern at China Digital Team, Mars Wrigley in Guangzhou. The main project I work on is building time series models, such as LSTM, ARIMA, to predict Mars Wrigley sales for chocolate, gum, mint, etc. Besides, I devote to connecting Postgresql database and cloud drive to implement database review.
+I have finished my last internship working as a data analyst intern at China Digital Team, Mars Wrigley in Guangzhou. The main project I worked on is building time series models, such as LSTM, ARIMA, to predict Mars Wrigley sales for chocolate, gum, mint, etc. Besides, I devoted to connecting Postgresql database and cloud drive to implement database review.
 
 ---
 
