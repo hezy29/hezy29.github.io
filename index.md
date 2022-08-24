@@ -31,8 +31,8 @@ I am pursuing positions including but not limited to DS, MLE and Quanter. At pre
 
 - Mars Wrigley, China Digital Team
   - Data analyst intern from Mar 2022 to Jun 2022
-<!-- - China Merchants Bank, IT Department
-  - Data science intern from Jul 2021 to Aug 2021 -->
+<!-- - China Merchants Bank, IT Department -->
+  <!-- - Data science intern from Jul 2021 to Aug 2021 -->
 
 ---
 ### 🛠 Languages and Tools
