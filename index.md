@@ -2,9 +2,11 @@
 layout: page
 title:
 ---
-I am an incoming MComp candidate at National University of Singapore. I obtain my bachelor degree of science in statistics at Sun Yat-sen University in Jun, 2022. I am skilled in Python, R and MATLAB. 
+Hi there! Welcome to Matt's homepage. I am a full-time MComp candidate at National University of Singapore. I obtained my bachelor's degree of science in statistics at Sun Yat-sen University in Jun 2022, where I developed myself to be self-motivated, critical-thinking and analytically sensitive with comprehensive skills in programming including Python, R, SQL and MATLAB. 
 
-I have finished my last internship working as a data analyst intern at China Digital Team, Mars Wrigley in Guangzhou. The main project I worked on is building time series models, such as LSTM, ARIMA, to predict Mars Wrigley sales for chocolate, gum, mint, etc. Besides, I devoted to connecting Postgresql database and cloud drive to implement database review.
+I finished my last internship working as a data analyst intern at China Digital Team, Mars Wrigley in Guangzhou this June. The main project I worked on is building time series models, such as LSTM, ARIMA, to predict Mars Wrigley sales for chocolate, gum, mint, etc. Besides, I am devoted to connecting the PostgreSQL database and cloud drive to implement database review. This precious experience helped me catch a glimpse of the mathematical and statistical applications in the consumer goods industry, and inspired me to have more passionate in DS and ML field. I am also enthusiastic about time series model and its related quantitative field. 
+
+I am pursuing positions including but not limited to DS, MLE and Quanter. At present, I am seeking '23 summer internships in Singapore. Please kindly contact me via email by clicking the "envelope" button at the bottom of the screen. 😀 
 
 ---
 
@@ -28,9 +30,9 @@ I have finished my last internship working as a data analyst intern at China Dig
 ### 🧑‍💻 Internship Experience
 
 - Mars Wrigley, China Digital Team
-  - Data analyst intern from Mar 2022 to Jun 2022 (Expected)
-- China Merchants Bank, IT Department
-  - Data science intern from Jul 2021 to Aug 2021
+  - Data analyst intern from Mar 2022 to Jun 2022
+<!-- - China Merchants Bank, IT Department
+  - Data science intern from Jul 2021 to Aug 2021 -->
 
 ---
 ### 🛠 Languages and Tools

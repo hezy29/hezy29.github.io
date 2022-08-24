@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "cv.html", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:heziyang2000@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:heziyang@comp.nus.edu.sg"}
   - {title: Github, icon: github, url: "https://github.com/hezy29"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/ziyang-he-156a07220/"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
