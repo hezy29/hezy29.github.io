@@ -4,20 +4,21 @@ title:
 ---
 Hi there! Welcome to Matt's homepage. I am a full-time MComp candidate at National University of Singapore. I obtained my bachelor's degree of science in statistics at Sun Yat-sen University in Jun 2022, where I developed myself to be self-motivated, critical-thinking and analytically sensitive with comprehensive skills in programming including Python, R, SQL and MATLAB. 
 
-I finished my last internship working as a data analyst intern at China Digital Team, Mars Wrigley in Guangzhou this June. The main project I worked on is building time series models, such as LSTM, ARIMA, to predict Mars Wrigley sales for chocolate, gum, mint, etc. Besides, I am devoted to connecting the PostgreSQL database and cloud drive to implement database review. This precious experience helped me catch a glimpse of the mathematical and statistical applications in the consumer goods industry, and inspired me to have more passionate in DS and ML field. I am also enthusiastic about time series model and its related quantitative field. 
+I finished my last internship working as a data science intern at China Digital Team, Mars Wrigley in Guangzhou in June, 2022. The main project I worked on is building time series models, such as LSTM, ARIMA, to predict Mars Wrigley sales for chocolate, gum, mint, etc. Besides, I am devoted to connecting the PostgreSQL database and cloud drive to implement database review. This precious experience helped me catch a glimpse of the mathematical and statistical applications in the consumer goods industry, and inspired me to have more passionate in DS and ML field. I am also enthusiastic about time series model and its related quantitative field. 
 
-I am pursuing positions including but not limited to DS, MLE and Quanter. At present, I am seeking '23 summer internships in Singapore. Please kindly contact me via email by clicking the "envelope" button at the bottom of the screen. 😀 
+<!-- I am pursuing positions including but not limited to DS, MLE and Quanter. At present, I am seeking '23 summer internships and TA/part-time RA during this semester.  -->
 
 ---
 
 ### 🏫 Education 
 
 - <img src="./images/logo/NUS_coat_of_arms.svg" align="middle" width="40"> National University of Singapore 🇸🇬
-  - Master in Computing, Aug 2022 -- Jan 2024 (Expected)
+  - Master in Computing, Aug 2022 -- May 2024 (Est.)
+  - Courses taken: IT5005 AI, CS4248 NLP, CS5344 Big Data Analytics Technology
   <!-- - Incoming MComp candidate from Aug 2022 -->
 
 - <img src="./images/logo/Sun_Yat-sen_University_Logo.png" align="middle" width="40"> Sun Yat-sen University 🇨🇳
-  - B.Sc in Stat, Sep 2018 -- Jun 2022
+  - B.Sc. in Stat, Sep 2018 -- Jun 2022
   - GPA: 3.925/5 (Major GPA: 4.033/5)
   - Honours: School Scholarship (2019, 2020, 2021), Second Prize of National College Mathematics Competition (2020)
 
@@ -27,10 +28,13 @@ I am pursuing positions including but not limited to DS, MLE and Quanter. At pre
 
 ---
 
-### 🧑‍💻 Internship Experience
+### 🧑‍💻 Working Experience
+
+- NUS, SoC
+  - Teaching Assistant, Jan 2023 -- present
 
 - Mars Wrigley, China Digital Team
-  - Data analyst intern from Mar 2022 to Jun 2022
+  - Data Science intern, Mar 2022 -- Jun 2022
 <!-- - China Merchants Bank, IT Department -->
   <!-- - Data science intern from Jul 2021 to Aug 2021 -->
 
